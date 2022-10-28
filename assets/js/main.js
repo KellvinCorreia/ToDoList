@@ -1,5 +1,5 @@
-import DoneTaskButton from '../components/doneButton'
-import DeleteTaskButton from '../components/deleteButton';
+import DoneTaskButton from '../components/doneButton.js'
+import DeleteTaskButton from '../components/deleteButton.js';
 
 const dataButton = document.querySelector('[data-form-button]');
 
