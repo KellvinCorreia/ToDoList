@@ -15,7 +15,7 @@ body {
   font-family: 'Space Mono', monospace;
   border-radius: 1rem;
   padding: 1rem;
-  min-width: 700px;
+  max-width: 80vw;
   min-height: 500px;
 }
 
